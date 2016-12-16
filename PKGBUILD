@@ -29,7 +29,7 @@ source=("https://cdn.kernel.org/pub/linux/kernel/v4.x/${_srcname}.tar.xz"
         'change-default-console-loglevel.patch')
 sha256sums=('029098dcffab74875e086ae970e3828456838da6e0ba22ce3f64ef764f3d7f1a'
             '2ac8818414beb7dbacbd3ad450c516e6ada804827132a7132f63b8189e5f5151'
-            '41b9a64542befd2fea170776e8ec22a7d158dd3273633afc9b91662c448cd90a'
+            '64e010fcdf5ffd2db3c8cb39b5b997efe2c3f70bf57f0a480adda07cb2730b78'
             '834bd254b56ab71d73f59b3221f056c72f559553c04718e350ab2a3e2991afe0'
             'ad6344badc91ad0630caacde83f7f9b97276f80d26a20619a87952be65492c65'
             '1256b241cd477b265a3c2d64bdc19ffe3c9bbcee82ea3994c590c2c76e767d99')
